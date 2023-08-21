@@ -3,7 +3,7 @@
 |           Проект                |                Описание         |           библитотеки          |
 | :------------------------------ | :------------------------------ | :----------------------------- |
 |[Банки- сегментация пользователей по потреблению](https://github.com/RauzaS/Portfolio/blob/main/Bank_final/bank_final.ipynb) | Сегментация пользователей банка по количеству используемых продуктов и подготовка портрета пользователя, покинувшего банк(изучение оттока) | pandas, matplotlib, numpy, skipy, seaborn|
-|[АВ-тестирование](
+|[АВ-тестирование](https://github.com/RauzaS/Portfolio/blob/main/AB_test_final/AB_final.ipynb) | Провести анализ АВ тестирования | pandas, matplotlib, numpy, skipy, seaborn|
 
 
 
